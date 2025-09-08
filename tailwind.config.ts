@@ -19,6 +19,12 @@ export default {
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        "medical-primary": "hsl(var(--medical-primary))",
+        "medical-primary-dark": "hsl(var(--medical-primary-dark))",
+        "medical-secondary": "hsl(var(--medical-secondary))",
+        "medical-accent": "hsl(var(--medical-accent))",
+        "medical-light": "hsl(var(--medical-light))",
+        "medical-muted": "hsl(var(--medical-muted))",
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
