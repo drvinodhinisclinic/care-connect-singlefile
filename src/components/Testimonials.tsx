@@ -127,6 +127,31 @@ const Testimonials = () => {
           ))}
         </div>
 
+        {/* Google Review Section */}
+        <div className="text-center mb-8">
+          <div className="medical-card p-6 max-w-md mx-auto">
+            <h3 className="text-lg font-semibold mb-3 text-medical-primary">
+              Love Our Care?
+            </h3>
+            <p className="text-muted-foreground mb-4 text-sm">
+              Share your experience on Google to help other families find us
+            </p>
+            <Button
+              asChild
+              className="bg-medical-accent hover:bg-medical-accent-dark text-white"
+            >
+              <a
+                href="https://g.page/r/CYZkrSLt3wGwEBM/review"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Star className="w-4 h-4 mr-2" />
+                Leave Google Review
+              </a>
+            </Button>
+          </div>
+        </div>
+
         {/* Add Testimonial Section */}
         <div className="max-w-2xl mx-auto">
           {!showForm ? (
