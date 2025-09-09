@@ -30,7 +30,7 @@ const Hero = () => {
               variant="outline"
               size="lg"
               onClick={() => window.open('tel:+918825561124')}
-              className="border-white text-white hover:bg-white hover:text-medical-primary text-lg px-8 py-4 h-auto font-semibold"
+              className="border-white text-medical-primary hover:bg-white hover:text-medical-primary text-lg px-8 py-4 h-auto font-semibold"
             >
               <Phone className="w-5 h-5 mr-3" />
               Call Clinic
