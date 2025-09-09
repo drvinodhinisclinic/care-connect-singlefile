@@ -39,14 +39,20 @@ const Hero = () => {
 
           {/* Quick Info */}
           <div className="grid md:grid-cols-2 gap-6 max-w-2xl mx-auto">
-            <div className="flex items-center justify-center space-x-3 text-white/90">
+            <button 
+              onClick={() => document.getElementById('location')?.scrollIntoView({ behavior: 'smooth' })}
+              className="flex items-center justify-center space-x-3 text-white/90 hover:text-white transition-colors cursor-pointer"
+            >
               <MapPin className="w-5 h-5 text-medical-accent" />
               <span>Theradi, Thiruvallur</span>
-            </div>
-            <div className="flex items-center justify-center space-x-3 text-white/90">
+            </button>
+            <button 
+              onClick={() => document.getElementById('timings')?.scrollIntoView({ behavior: 'smooth' })}
+              className="flex items-center justify-center space-x-3 text-white/90 hover:text-white transition-colors cursor-pointer"
+            >
               <Clock className="w-5 h-5 text-medical-accent" />
               <span>Mon-Sat Evening Hours</span>
-            </div>
+            </button>
           </div>
         </div>
       </div>
