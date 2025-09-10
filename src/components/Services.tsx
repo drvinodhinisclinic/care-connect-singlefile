@@ -1,4 +1,4 @@
-import { Baby, Heart, Shield, Stethoscope, Syringe, UserCheck } from 'lucide-react';
+import { Baby, Heart, Shield, Stethoscope, Syringe, UserCheck, Activity, Scissors } from 'lucide-react';
 
 const Services = () => {
   const services = [
@@ -37,6 +37,24 @@ const Services = () => {
       title: "Immunizations",
       description: "Age-appropriate vaccination schedules to protect your child from preventable diseases.",
       category: "Child Health"
+    },
+    {
+      icon: Shield,
+      title: "Contraception & Fertility Restoration",
+      description: "Comprehensive contraceptive counseling and fertility restoration services to help you plan your family according to your needs.",
+      category: "Fertility Care"
+    },
+    {
+      icon: Activity,
+      title: "Infertility Treatment",
+      description: "Specialized diagnosis and treatment for infertility issues with personalized care plans and advanced therapeutic options.",
+      category: "Fertility Care"
+    },
+    {
+      icon: Scissors,
+      title: "Laparoscopic Surgeries",
+      description: "Minimally invasive surgical procedures with faster recovery times, reduced scarring, and improved outcomes.",
+      category: "Surgical Care"
     }
   ];
 
