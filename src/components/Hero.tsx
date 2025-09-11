@@ -51,7 +51,7 @@ const Hero = () => {
               className="flex items-center justify-center space-x-3 text-white/90 hover:text-white transition-colors cursor-pointer"
             >
               <Clock className="w-5 h-5 text-medical-accent" />
-              <span>Mon-Sat Evening Hours</span>
+              <span>Working Hours</span>
             </button>
           </div>
         </div>
