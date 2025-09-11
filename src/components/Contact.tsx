@@ -156,7 +156,7 @@ Please get back to me at your convenience.`;
                     <h4 className="font-semibold text-medical-primary mb-2">Clinic Hours</h4>
                     <div className="text-sm text-muted-foreground space-y-1">
                       <p><strong>O&G:</strong> Mon-Sat 6PM-9PM, Sun 10AM-1PM</p>
-                      <p><strong>Pediatrics:</strong> Mon-Sat 5PM-8PM</p>
+                      <p><strong>Pediatrics:</strong> Mon-Sat 5:30PM to 8:30PM</p>
                     </div>
                   </div>
                 </div>
