@@ -2,6 +2,7 @@ import { Baby, Heart, Shield, Stethoscope, Syringe, UserCheck, Activity, Scissor
 
 const Services = () => {
   const services = [
+    // Women's Health
     {
       icon: Heart,
       title: "Antenatal Care",
@@ -26,6 +27,27 @@ const Services = () => {
       description: "Personalized counseling and guidance for family planning decisions and contraceptive options.",
       category: "Women's Health"
     },
+    // Fertility Care
+    {
+      icon: Shield,
+      title: "Contraception & Fertility Restoration",
+      description: "Comprehensive contraceptive counseling and fertility restoration services to help you plan your family according to your needs.",
+      category: "Fertility Care"
+    },
+    {
+      icon: Activity,
+      title: "Infertility Treatment",
+      description: "Specialized diagnosis and treatment for infertility issues with personalized care plans and advanced therapeutic options.",
+      category: "Fertility Care"
+    },
+    // Surgical Care
+    {
+      icon: Scissors,
+      title: "Laparoscopic Surgeries",
+      description: "Minimally invasive surgical procedures with faster recovery times, reduced scarring, and improved outcomes.",
+      category: "Surgical Care"
+    },
+    // Child Health
     {
       icon: Stethoscope,
       title: "Pediatric Consultations",
@@ -39,22 +61,16 @@ const Services = () => {
       category: "Child Health"
     },
     {
-      icon: Shield,
-      title: "Contraception & Fertility Restoration",
-      description: "Comprehensive contraceptive counseling and fertility restoration services to help you plan your family according to your needs.",
-      category: "Fertility Care"
+      icon: Baby,
+      title: "Neonatal Care",
+      description: "Specialized care for newborns including health assessments, feeding support, and early intervention services.",
+      category: "Child Health"
     },
     {
       icon: Activity,
-      title: "Infertility Treatment",
-      description: "Specialized diagnosis and treatment for infertility issues with personalized care plans and advanced therapeutic options.",
-      category: "Fertility Care"
-    },
-    {
-      icon: Scissors,
-      title: "Laparoscopic Surgeries",
-      description: "Minimally invasive surgical procedures with faster recovery times, reduced scarring, and improved outcomes.",
-      category: "Surgical Care"
+      title: "Growth and Development",
+      description: "Comprehensive monitoring of child development milestones, growth tracking, and developmental assessments.",
+      category: "Child Health"
     }
   ];
 
