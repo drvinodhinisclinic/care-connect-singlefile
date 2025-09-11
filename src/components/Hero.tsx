@@ -19,7 +19,7 @@ const Hero = () => {
           <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-6 mb-12">
             <Button
               size="lg"
-              onClick={() => window.open('https://wa.me/918825561124?text=Hello%20Dr.%20Vinodhini%2C%20I%20would%20like%20to%20book%20an%20appointment.', '_blank')}
+              onClick={() => document.getElementById('booking')?.scrollIntoView({ behavior: 'smooth' })}
               className="bg-white text-medical-primary hover:bg-white/90 text-lg px-8 py-4 h-auto font-semibold"
             >
               <MessageCircle className="w-5 h-5 mr-3" />

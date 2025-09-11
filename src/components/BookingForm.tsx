@@ -109,12 +109,12 @@ Please confirm my appointment at your earliest convenience.
 Thank you!
 ${formData.name}`;
 
-    const mailtoUrl = `mailto:clinic@drvinodhini.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    const mailtoUrl = `mailto:drvinodhinisclinic@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     window.location.href = mailtoUrl;
   };
 
   return (
-    <section className="py-20 bg-medical-light/50">
+    <section id="booking" className="py-20 bg-medical-light/50">
       <div className="container mx-auto px-4">
         <div className="max-w-2xl mx-auto">
           <div className="text-center mb-12">

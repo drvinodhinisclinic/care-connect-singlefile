@@ -29,7 +29,7 @@ Phone: ${contactForm.phone}
 Message:
 ${contactForm.message}`;
 
-    const mailtoUrl = `mailto:clinic@drvinodhini.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    const mailtoUrl = `mailto:drvinodhinisclinic@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     window.location.href = mailtoUrl;
   };
 
@@ -118,10 +118,10 @@ Please get back to me at your convenience.`;
                   <div className="flex-1">
                     <h4 className="font-semibold text-medical-primary mb-1">Email</h4>
                     <button
-                      onClick={() => window.open('mailto:clinic@drvinodhini.com')}
+                      onClick={() => window.open('mailto:drvinodhinisclinic@gmail.com')}
                       className="text-muted-foreground hover:text-medical-accent transition-colors"
                     >
-                      clinic@drvinodhini.com
+                      drvinodhinisclinic@gmail.com
                     </button>
                     <p className="text-sm text-muted-foreground mt-1">
                       For detailed inquiries and medical records
