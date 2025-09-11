@@ -5,32 +5,32 @@ const Timings = () => {
     {
       day: 'Monday',
       ogTiming: '6:00 PM - 9:00 PM',
-      pediatricTiming: '5:00 PM - 8:00 PM'
+      pediatricTiming: '5:30 PM - 8:30 PM'
     },
     {
       day: 'Tuesday', 
       ogTiming: '6:00 PM - 9:00 PM',
-      pediatricTiming: '5:00 PM - 8:00 PM'
+      pediatricTiming: '5:30 PM - 8:30 PM'
     },
     {
       day: 'Wednesday',
       ogTiming: '6:00 PM - 9:00 PM', 
-      pediatricTiming: '5:00 PM - 8:00 PM'
+      pediatricTiming: '5:30 PM - 8:30 PM'
     },
     {
       day: 'Thursday',
       ogTiming: '6:00 PM - 9:00 PM',
-      pediatricTiming: '5:00 PM - 8:00 PM'
+      pediatricTiming: '5:30 PM - 8:30 PM'
     },
     {
       day: 'Friday',
       ogTiming: '6:00 PM - 9:00 PM',
-      pediatricTiming: '5:00 PM - 8:00 PM'
+      pediatricTiming: '5:30 PM - 8:30 PM'
     },
     {
       day: 'Saturday',
       ogTiming: '6:00 PM - 9:00 PM',
-      pediatricTiming: '5:00 PM - 8:00 PM'
+      pediatricTiming: '5:30 PM - 8:30 PM'
     },
     {
       day: 'Sunday',

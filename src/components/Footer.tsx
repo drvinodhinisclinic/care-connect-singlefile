@@ -47,11 +47,11 @@ const Footer = () => {
               </button>
               
               <button
-                onClick={() => window.open('mailto:clinic@drvinodhini.com')}
+                onClick={() => window.open('mailto:drvinodhinisclinic@gmail.com')}
                 className="flex items-center space-x-3 text-white/80 hover:text-white transition-colors w-full text-left"
               >
                 <Mail className="w-4 h-4" />
-                <span>clinic@drvinodhini.com</span>
+                <span>drvinodhinisclinic@gmail.com</span>
               </button>
               
               <div className="flex items-start space-x-3 text-white/80">
@@ -75,7 +75,7 @@ const Footer = () => {
               </div>
               <div>
                 <h5 className="font-medium text-white mb-1">Pediatrics</h5>
-                <p>Monday - Saturday: 5:00 PM - 8:00 PM</p>
+                <p>Monday - Saturday: 5:30 PM - 8:30 PM</p>
                 <p>Sunday: Closed</p>
               </div>
             </div>
