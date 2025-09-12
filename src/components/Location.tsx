@@ -131,10 +131,6 @@ const Location = () => {
                 <h4 className="font-medium text-medical-primary mb-2">Public Transport</h4>
                 <p className="text-muted-foreground">Well connected by local buses. Just behind Theradi-Rayiladi share auto stand in Theradi. Just 50m from Gokul Scans</p>
               </div>
-              <div>
-                <h4 className="font-medium text-medical-primary mb-2">Accessibility</h4>
-                <p className="text-muted-foreground">Ground floor clinic with easy access for the elderly and pregnant women.</p>
-              </div>
             </div>
           </div>
         </div>
