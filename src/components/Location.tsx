@@ -11,7 +11,7 @@ const Location = () => {
               Visit Our Clinic
             </h2>
             <p className="text-xl text-muted-foreground">
-              Conveniently located in Thiruvallur for easy access
+              Conveniently located in Thiruvallur for easy access. Landmark: Behind Theradi-Rayiladi share auto stand in Theradi.
             </p>
           </div>
 
@@ -121,15 +121,19 @@ const Location = () => {
             <div className="grid md:grid-cols-3 gap-6 text-sm">
               <div>
                 <h4 className="font-medium text-medical-primary mb-2">By Car</h4>
-                <p className="text-muted-foreground">Free parking available near the clinic. Located on Kanagavallipuram Street with easy road access.</p>
+                <p className="text-muted-foreground">Free roadside parking available near the clinic. Park near Veeraraghavar Temple tank(Pond).</p>
+              </div>
+              <div>
+                <h4 className="font-medium text-medical-primary mb-2">By Bike</h4>
+                <p className="text-muted-foreground">Free roadside parking before the clinic</p>
               </div>
               <div>
                 <h4 className="font-medium text-medical-primary mb-2">Public Transport</h4>
-                <p className="text-muted-foreground">Well connected by local buses. Thiruvallur railway station is approximately 3 km away.</p>
+                <p className="text-muted-foreground">Well connected by local buses. Just behind Theradi-Rayiladi share auto stand in Theradi. Just 50m from Gokul Scans</p>
               </div>
               <div>
                 <h4 className="font-medium text-medical-primary mb-2">Accessibility</h4>
-                <p className="text-muted-foreground">Ground floor clinic with wheelchair accessible entrance and facilities.</p>
+                <p className="text-muted-foreground">Ground floor clinic with easy access for the elderly and pregnant women.</p>
               </div>
             </div>
           </div>
