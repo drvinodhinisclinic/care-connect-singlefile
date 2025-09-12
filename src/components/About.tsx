@@ -28,7 +28,7 @@ const About = () => {
                 Founder & Gynecologist
               </span>
               <span className="bg-medical-secondary/10 text-medical-secondary px-3 py-1 rounded-full text-sm font-medium">
-                DGO Specialist
+                Laparascopic Surgeon
               </span>
             </div>
             
