@@ -47,6 +47,25 @@ const Services = () => {
       description: "Minimally invasive surgical procedures with faster recovery times, reduced scarring, and improved outcomes.",
       category: "Surgical Care"
     },
+    // Specialized Services
+    {
+      icon: Baby,
+      title: "Labor Delivery Services",
+      description: "Conducting labor (Normal and C-Section - At partner hospitals) with comprehensive care throughout delivery.",
+      category: "Women's Health"
+    },
+    {
+      icon: Scissors,
+      title: "Hysterectomy by Laparoscopy",
+      description: "Uterus removal (Hysterectomy by Laparoscopy) using minimally invasive techniques for faster recovery.",
+      category: "Surgical Care"
+    },
+    {
+      icon: Heart,
+      title: "Uterus & Ovary Care",
+      description: "All Uterus and Ovary related issues with specialized treatment and comprehensive care solutions.",
+      category: "Women's Health"
+    },
     // Child Health
     {
       icon: Stethoscope,
