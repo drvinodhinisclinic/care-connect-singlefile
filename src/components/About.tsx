@@ -6,10 +6,10 @@ const About = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-3xl lg:text-4xl font-bold mb-4 text-medical-primary">
-            Meet Our Dedicated Doctors
+            Expert Gynecologist & Pediatrician in Thiruvallur
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Experienced specialists committed to providing exceptional care for women and children
+            Dr. Vinodhini DGO - Leading gynecologist and Dr. Janakiraman MD - experienced pediatrician providing exceptional women and child healthcare
           </p>
         </div>
 
@@ -21,21 +21,21 @@ const About = () => {
             </div>
             
             <h3 className="text-2xl font-bold mb-2 text-medical-primary">Dr. P. Vinodhini</h3>
-            <p className="text-medical-secondary font-semibold mb-4">M.S.(O&G), D.G.O.</p>
+            <p className="text-medical-secondary font-semibold mb-4">DGO, M.S.(O&G) - Gynecologist in Thiruvallur</p>
             
             <div className="flex justify-center space-x-4 mb-6">
               <span className="bg-medical-primary/10 text-medical-primary px-3 py-1 rounded-full text-sm font-medium">
-                Founder
+                Founder & Gynecologist
               </span>
               <span className="bg-medical-secondary/10 text-medical-secondary px-3 py-1 rounded-full text-sm font-medium">
-                Women's Health Specialist
+                DGO Specialist
               </span>
             </div>
             
             <p className="text-muted-foreground leading-relaxed mb-6">
-              Dr. Vinodhini brings extensive expertise in obstetrics and gynecology, 
+              Dr. Vinodhini is an experienced gynecologist in Thiruvallur with DGO and MS (O&G) qualifications, 
               specializing in comprehensive women's healthcare from adolescence through menopause. 
-              Her patient-centered approach ensures personalized care for every woman's unique needs.
+              As a trusted gynecologist, her patient-centered approach ensures personalized care for every woman's unique needs.
             </p>
             
             <div className="flex items-center justify-center space-x-6 text-sm text-muted-foreground">

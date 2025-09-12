@@ -7,13 +7,13 @@ const Hero = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl lg:text-6xl font-bold mb-6 leading-tight">
-            Comprehensive Care for
-            <span className="block text-medical-accent">Women & Children</span>
+            Expert <span className="text-medical-accent">Gynecologist</span> in
+            <span className="block text-medical-accent">Thiruvallur</span>
           </h1>
           
           <p className="text-xl lg:text-2xl mb-8 text-white/90 max-w-3xl mx-auto leading-relaxed">
-            Expert antenatal, postnatal and pediatric care with compassionate, 
-            evidence-based treatment in Thiruvallur.
+            Dr. Vinodhini DGO - Leading gynecologist offering comprehensive women's health, 
+            antenatal, postnatal and pediatric care in Thiruvallur.
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-6 mb-12">
