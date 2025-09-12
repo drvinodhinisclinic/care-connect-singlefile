@@ -124,6 +124,10 @@ const Location = () => {
                 <p className="text-muted-foreground">Free roadside parking available near the clinic. Park near Veeraraghavar Temple tank(Pond).</p>
               </div>
               <div>
+                <h4 className="font-medium text-medical-primary mb-2">By Bike</h4>
+                <p className="text-muted-foreground">Free roadside parking before the clinic</p>
+              </div>
+              <div>
                 <h4 className="font-medium text-medical-primary mb-2">Public Transport</h4>
                 <p className="text-muted-foreground">Well connected by local buses. Just behind Theradi-Rayiladi share auto stand in Theradi. Just 50m from Gokul Scans</p>
               </div>
