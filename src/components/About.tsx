@@ -9,7 +9,7 @@ const About = () => {
             Expert Gynecologist & Pediatrician in Thiruvallur
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Dr. Vinodhini DGO - Leading gynecologist and Dr. Janakiraman MD - experienced pediatrician providing exceptional women and child healthcare
+            Dr. Vinodhini M.S(O&G)., D.G.O., - Leading gynecologist and Dr. Janakiraman MD - experienced pediatrician providing exceptional women and child healthcare
           </p>
         </div>
 

@@ -12,7 +12,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl lg:text-2xl mb-8 text-white/90 max-w-3xl mx-auto leading-relaxed">
-            Dr. Vinodhini DGO - Leading gynecologist offering comprehensive women's health, 
+            Dr. Vinodhini M.S(O&G)., D.G.O., - Leading gynecologist offering comprehensive women's health, 
             antenatal, postnatal and pediatric care in Thiruvallur.
           </p>
 
