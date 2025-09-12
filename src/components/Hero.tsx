@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl lg:text-6xl font-bold mb-6 leading-tight">
             Expert <span className="text-medical-accent">Gynecologist</span> and
-            <span className="block text-medical-accent">Pediatrician in Thiruvallur</span>
+            <span className="block"><span className="text-medical-accent">Pediatrician</span> in Thiruvallur</span>
           </h1>
           
           <p className="text-xl lg:text-2xl mb-8 text-white/90 max-w-3xl mx-auto leading-relaxed">
