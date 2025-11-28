@@ -61,7 +61,7 @@ const Location = () => {
                 {/* Action Buttons */}
                 <div className="flex flex-col sm:flex-row gap-4 pt-4">
                   <Button
-                    onClick={() => window.open('https://locate.drvinodhini.in/', '_blank')}
+                    onClick={() => window.open('https://maps.app.goo.gl/Hi6R1YESau7EsBff7', '_blank')}
                     className="bg-medical-primary hover:bg-medical-primary-dark flex-1"
                   >
                     <Navigation className="w-4 h-4 mr-2" />
@@ -106,7 +106,7 @@ const Location = () => {
                 <Button
                   variant="outline"
                   size="sm"
-                  onClick={() => window.open('https://locate.drvinodhini.in/', '_blank')}
+                  onClick={() => window.open('https://maps.app.goo.gl/Hi6R1YESau7EsBff7', '_blank')}
                   className="border-medical-secondary text-medical-secondary hover:bg-medical-secondary hover:text-white"
                 >
                   Open in Google Maps
@@ -130,6 +130,10 @@ const Location = () => {
               <div>
                 <h4 className="font-medium text-medical-primary mb-2">Public Transport</h4>
                 <p className="text-muted-foreground">Well connected by local buses. Just behind Theradi-Rayiladi share auto stand in Theradi. Just 50m from Gokul Scans</p>
+              </div>
+              <div>
+                <h4 className="font-medium text-medical-primary mb-2">Accessibility</h4>
+                <p className="text-muted-foreground">Ground floor clinic with easy access for the elderly and pregnant women.</p>
               </div>
             </div>
           </div>
