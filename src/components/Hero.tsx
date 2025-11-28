@@ -41,17 +41,17 @@ const Hero = () => {
           <div className="grid md:grid-cols-2 gap-6 max-w-2xl mx-auto">
             <button 
               onClick={() => document.getElementById('location')?.scrollIntoView({ behavior: 'smooth' })}
-              className="flex items-center justify-center space-x-3 text-white/90 hover:text-white transition-colors cursor-pointer"
+              className="flex items-center justify-center space-x-3 bg-white/10 hover:bg-white/20 border border-white/30 rounded-lg px-6 py-3 text-white transition-all cursor-pointer group"
             >
               <MapPin className="w-5 h-5 text-medical-accent" />
-              <span>Theradi, Thiruvallur</span>
+              <span className="underline underline-offset-4 group-hover:text-medical-accent transition-colors">Theradi, Thiruvallur</span>
             </button>
             <button 
               onClick={() => document.getElementById('timings')?.scrollIntoView({ behavior: 'smooth' })}
-              className="flex items-center justify-center space-x-3 text-white/90 hover:text-white transition-colors cursor-pointer"
+              className="flex items-center justify-center space-x-3 bg-white/10 hover:bg-white/20 border border-white/30 rounded-lg px-6 py-3 text-white transition-all cursor-pointer group"
             >
               <Clock className="w-5 h-5 text-medical-accent" />
-              <span>Working Hours</span>
+              <span className="underline underline-offset-4 group-hover:text-medical-accent transition-colors">Working Hours</span>
             </button>
           </div>
         </div>
