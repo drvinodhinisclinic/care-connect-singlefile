@@ -57,7 +57,7 @@ const Footer = () => {
               <div className="flex items-start space-x-3 text-white/80">
                 <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0" />
                 <span className="text-sm">
-                  4/29 G-1, Poonjolai Street, Poonga Nagar,<br />
+                  4/29 G-1, Poonjolai St., Appasamy street, Poonga Nagar,<br />
                   Near VRL Logistics, Thiruvallur 602001
                 </span>
               </div>
