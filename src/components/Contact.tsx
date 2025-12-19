@@ -139,8 +139,8 @@ Please get back to me at your convenience.`;
                   <div className="flex-1">
                     <h4 className="font-semibold text-medical-primary mb-1">Address</h4>
                     <p className="text-muted-foreground">
-                      No 19/45, Kanagavallipuram Street,<br />
-                      Theradi, Thiruvallur 602001
+                      4/29, Poonjolai St., Appasamy Street, Poonga Nagar,<br />
+                      Near VRL Logistics, Thiruvallur 602001
                     </p>
                   </div>
                 </div>
