@@ -11,7 +11,7 @@ const Location = () => {
               Visit Our Clinic
             </h2>
             <p className="text-xl text-muted-foreground">
-              Conveniently located in Thiruvallur for easy access. Landmark: Behind Theradi-Rayiladi share auto stand in Theradi.
+              Conveniently located in behind old collector office for easy access. Landmark: Behind Old Collector office, Next to VRL logistics.
             </p>
           </div>
 
@@ -29,8 +29,8 @@ const Location = () => {
                     Dr. Vinodhini's Women and Child Clinic
                   </p>
                   <p className="text-muted-foreground leading-relaxed">
-                    No 19/45, Kanagavallipuram Street,<br />
-                    Theradi, Thiruvallur 602001<br />
+                    4/29 G-1,Poonjolai St., Appasamy Street, Poonga Nagar,<br />
+                    Near VRL Logistics, Thiruvallur 602001<br />
                     Tamil Nadu, India
                   </p>
                 </div>
@@ -88,7 +88,7 @@ const Location = () => {
               
               <div className="aspect-video rounded-lg overflow-hidden bg-medical-light border">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.3110319837315!2d79.90389887830857!3d13.142770354155076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a529100712c9d59%3A0xb001dfed22ad6486!2sDr%20Vinodhini&#39;s%20women%20and%20child%20clinic!5e0!3m2!1sen!2sin!4v1757340989323!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3885.45496352844!2d79.91898599999999!3d13.133677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTPCsDA4JzAxLjIiTiA3OcKwNTUnMDguNCJF!5e0!3m2!1sen!2sin!4v1766138302401!5m2!1sen!2sin"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
@@ -121,7 +121,7 @@ const Location = () => {
             <div className="grid md:grid-cols-3 gap-6 text-sm">
               <div>
                 <h4 className="font-medium text-medical-primary mb-2">By Car</h4>
-                <p className="text-muted-foreground">Free roadside parking available near the clinic. Park near Veeraraghavar Temple tank(Pond).</p>
+                <p className="text-muted-foreground">Free and ample roadside parking available near the clinic.</p>
               </div>
               <div>
                 <h4 className="font-medium text-medical-primary mb-2">By Bike</h4>
@@ -129,7 +129,7 @@ const Location = () => {
               </div>
               <div>
                 <h4 className="font-medium text-medical-primary mb-2">Public Transport</h4>
-                <p className="text-muted-foreground">Well connected by local buses. Just behind Theradi-Rayiladi share auto stand in Theradi. Just 50m from Gokul Scans</p>
+                <p className="text-muted-foreground">Well connected by local buses. Behind old collector office at Appasamy Street. Next to VRL Logistics</p>
               </div>
             </div>
           </div>
