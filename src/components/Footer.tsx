@@ -57,8 +57,8 @@ const Footer = () => {
               <div className="flex items-start space-x-3 text-white/80">
                 <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0" />
                 <span className="text-sm">
-                  No 19/45, Kanagavallipuram Street,<br />
-                  Theradi, Thiruvallur 602001
+                  4/29 G-1, Poonjolai Street, Poonga Nagar,<br />
+                  Near VRL Logistics, Thiruvallur 602001
                 </span>
               </div>
             </div>
@@ -118,7 +118,7 @@ const Footer = () => {
             "description": "Comprehensive antenatal, postnatal and pediatric care with compassionate, evidence-based treatment for women and children in Thiruvallur",
             "address": {
               "@type": "PostalAddress",
-              "streetAddress": "No 19/45, Kanagavallipuram Street, Theradi",
+              "streetAddress": "4/29 G-1, Poonjolai Street, Poonga Nagar",
               "addressLocality": "Thiruvallur",
               "postalCode": "602001",
               "addressRegion": "Tamil Nadu",
