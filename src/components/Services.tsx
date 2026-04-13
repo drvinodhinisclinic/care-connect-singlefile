@@ -106,7 +106,9 @@ const Services = () => {
     "Health Education & Wellness",
     "Emergency Consultations",
     "Routine Health Screenings",
-    "Cashless Insurance"
+    "Cashless Insurance",
+    "PCOS/PCOD Management",
+    "White discharge treatment"
   ];
 
   return (
