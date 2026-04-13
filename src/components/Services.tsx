@@ -86,6 +86,12 @@ const Services = () => {
       category: "Child Health"
     },
     {
+      icon: Shield,
+      title: "Cashless Insurance",
+      description: "We support all major health insurances with cashless facility available, ensuring stress-free maternity and surgical care.",
+      category: "Cashless Claim"
+    },
+    {
       icon: Activity,
       title: "Growth and Development",
       description: "Comprehensive monitoring of child development milestones, growth tracking, and developmental assessments.",
@@ -99,7 +105,8 @@ const Services = () => {
     "Minor Procedures",
     "Health Education & Wellness",
     "Emergency Consultations",
-    "Routine Health Screenings"
+    "Routine Health Screenings",
+    "Cashless Insurance"
   ];
 
   return (
