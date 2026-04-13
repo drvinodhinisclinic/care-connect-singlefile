@@ -16,6 +16,10 @@ const Hero = () => {
             offering comprehensive women's health, antenatal, postnatal and pediatric care in Thiruvallur.
           </p>
 
+          <p className="text-xl lg:text-2xl mb-8 text-white/90 max-w-3xl mx-auto leading-relaxed">
+            We support all major health insurances with cashless facility available, ensuring stress-free maternity and surgical care. Our clinic provides safe, ethical, and patient-centered treatment with easy insurance processing.
+          </p>
+          
           <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-6 mb-12">
             <Button
               size="lg"
